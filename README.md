@@ -1,6 +1,6 @@
 Para compilar de manera adecuada dicho laboratorio se deben de incluir las librerias necesarias, siendo la que más destaca para este caso la inclusión de cJSON.h
 Por lo que es necesario tanto instalar las devidas expansiones para este como tener los archivos cJSON.h y cJSON.c en la misma carpeta que el archivo main.c,
-en este caso lab5.c. Además se debe de instalar las funciones de make y meson en la terminal de la maquina.
+en este caso lab5.c. Además se debe de instalar las funciones de make y meson en la terminal de la maquina. Para Instalar la biblioteca de cJSON se necesita tanto entrar al visual estudio code(el cual es el programa utilizado en esta ocasion)se descarga e instala los complementos necesarios, luego hay que diriguirse al repositorio oficial de github acerca de cJSON y descargar los archivos cJSON.c y cJSON.h, luego se colocan en la misma carpeta que el archivo ".c".
 
 Compilacion normal:
 Este metodo de compilación es el estandar ya visto en el resto del curso. Este se ejecuta en una terminal abierta en el archivo ".c", en esta terminal se guardan los
